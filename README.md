@@ -1,26 +1,32 @@
 # Task Manager
+
 A simple task manager app built using React.  
 [View Demo](https://react-task-manager-aayush.herokuapp.com/)
 
+![image](https://user-images.githubusercontent.com/86913048/226954931-4a207949-098e-41e8-89fc-c2d3b999406c.png)
+
 Note:
+
 - This project uses Vitejs as the front end build tool (i.e., module bundler).
 - The project was bootstrapped using the command `npm init vite`
 
 ## Table of Contents
-* [Features](#features)
-* [Technologies used](#technologies-used)
-* [Installation and setup](#installation-and-setup)
-* [Useful Links](#useful-links)
-* [Contact](#contact)
 
+- [Features](#features)
+- [Technologies used](#technologies-used)
+- [Installation and setup](#installation-and-setup)
+- [Useful Links](#useful-links)
+- [Contact](#contact)
 
 ## Features
+
 - New tasks can be added.
 - A task can be deleted.
 - Tasks can be filtered.
 - Tasks can be marked completed (and toggled back as well).
 
 ## Technologies used
+
 - HTML
 - CSS
 - Javascript
@@ -28,19 +34,19 @@ Note:
 - React
 
 ## Installation and Setup
-1. Download the source code in the desired location on your system.
-2. Open the code in your code editor.
-3. To install all the dependencies (listed in package.json file) in your project, go to terminal and type the following command and hit enter:
-	```sh
-	npm install
-	```
-4. Go to terminal and type the following command and hit enter:
-	```sh
-	npm run dev
-	```
-5. Open browser and go to url: http://localhost:3000. You can see the app running now.
+
+1. Install all the dependencies
+   ```sh
+   npm install
+   ```
+2. Run the application
+   ```sh
+   npm run dev
+   ```
+3. Open http://localhost:3000.
 
 ## Useful Links
+
 - Demo: https://react-task-manager-aayush.herokuapp.com/
 - Github Repo: https://github.com/aayush301/React-task-manager
 - Nodejs download: https://nodejs.org/
@@ -54,5 +60,6 @@ Note:
 - VS Code keyboard shortcuts: https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 
 ## Contact
+
 - Email: aayush5521186@gmail.com
 - Linkedin: https://www.linkedin.com/in/aayush12/
