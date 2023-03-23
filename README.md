@@ -1,7 +1,7 @@
 # Task Manager
 
 A simple task manager app built using React.  
-[View Demo](https://react-task-manager-aayush.herokuapp.com/)
+[View Demo](https://react-task-manager-pis5.onrender.com/)
 
 ![image](https://user-images.githubusercontent.com/86913048/226954931-4a207949-098e-41e8-89fc-c2d3b999406c.png)
 
